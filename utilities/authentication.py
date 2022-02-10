@@ -7,4 +7,4 @@ def getPassword():
 
 class authe:
     username = 'matmat974'
-    token = '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'
+    token = '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'
