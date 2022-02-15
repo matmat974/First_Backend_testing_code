@@ -4,7 +4,7 @@ import json
 
 
 response = requests.get('https://api.kumuapi.com/v1/sms/retrieve-otp-codes',
-             params={'cellphone': '000012980', 'country_code': '63', 'rate_limit': '2'},
+             params={'cellphone': '0000432222', 'country_code': '63', 'rate_limit': '2'},
              headers={'otp-secret-key': '782a6798b2f0ce9a01be38af39ef34bd'})
 
 print(response.text)
