@@ -16,4 +16,5 @@ print(type(response.text))
 # list = dict['data']
 #
 # print(type(list))
-# print(list[0]['verification_code'])
+# print(list[0]['verification_code']
+print("hello world")
