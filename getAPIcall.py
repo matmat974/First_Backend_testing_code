@@ -18,3 +18,5 @@ print(type(response.text))
 # print(type(list))
 # print(list[0]['verification_code']
 print("hello world")
+print("hello 1")
+print("hello 2")
