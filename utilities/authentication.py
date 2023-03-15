@@ -2,7 +2,7 @@ def getUsername():
     return "carlmprosales@gmail.com"
 
 def getPassword():
-    return "029S3l@s0r"
+    return "githubpassword"
 
 
 class authe:
